@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site </title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-07-19 17:39:11 -0400 EDT</updated>
+
+    
+      
+        <item>
+          <title>Programming Begins Here</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/spf13-vim-3-0-release-and-new-website/</link>
+          <pubDate>Tue, 19 Jul 2016 17:39:11 EDT</pubDate>
+          <author></author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/spf13-vim-3-0-release-and-new-website/</guid>
+          <description>&lt;p&gt;Computer programming seems very complex to most people and they have a point in thinking that way. It is. Computer programming is the language of a computer; in similar ways how we would learn another language to be able to communicate to others with different dialects. Now please be reminded that learning any new skill will take time, dedication, and resilience. While coding is something that can be learned it doesn&amp;rsquo;t necessarily make it easy.&lt;/p&gt;
+
+&lt;p&gt;Being able to deal with frustration when coding is an essential trait for a programmer. Major key ladies and gentlemen, time builds quality programmers. You will spend countless hours being frustrated with your laptop but trust me, it gets better as you calmly move through the calamities of code. It took me weeks to begin to actually understand the syntax. Syntax is the actual code that you would type in something called a &amp;ldquo;text editor&amp;rdquo; which is used to produce code. Think of the text editor as Microsoft Word and syntax being the words in the body of the paragraphs.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
